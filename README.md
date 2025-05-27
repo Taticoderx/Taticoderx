@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Taticoderx
-- 👀 I’m interested in tudo que há
-- 🌱 I’m currently learning várias coisas aleatórias, mas entre elas Java e Python (ainda não decidi qual choice)
-- 💞️ I’m looking to collaborate on tudo que tiver oportunidade
-- 📫 How to reach me @tatisntsx
-- ⚡ Fun fact: sou a pior jogadora de Combat Arms, mas não desisto nunca (brasileira né)
+-👋 Hi, I'm @Taticoderx  
+-👀 I'm interested in... basically everything!  
+-🌱 Currently learning all sorts of stuff — Java and Python among them (still choosing my favorite)  
+-🤝 Open to collaborate on anything I get the chance to!  
+-📫 How to reach me: @tatistsnx  
+-⚡ Fun fact: I'm probably the worst Combat Arms player ever, but hey — I never give up! (I'm Brazilian, after all 🇧🇷)
 
 <!---
 Taticoderx/Taticoderx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
