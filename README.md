@@ -1,6 +1,6 @@
 -👋 Hi, I'm @Taticoderx  
 -👀 I'm interested in... basically everything!  
--🌱 Currently learning all sorts of stuff — Java and Python among them (still choosing my favorite)  
+-🌱 Still exploring the world of programming - learning a bit of everything as I find my way!  
 -🤝 Open to collaborate on anything I get the chance to!  
 -📫 How to reach me: @tatistsnx  
 -⚡ Fun fact: I'm probably the worst Combat Arms player ever, but hey — I never give up! (I'm Brazilian, after all 🇧🇷)
